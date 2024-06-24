@@ -34,7 +34,7 @@ The primary goal is to classify gene expression data to detect the presence of H
 
 ## Scripts Description
 
-### `data_preprocessing.ipynb`
+### `Huntington_Disease_Classification_2023.ipynb`
 This notebook handles the preprocessing of the GSE33000 dataset, including:
 - Loading the dataset
 - Normalizing and scaling the data
